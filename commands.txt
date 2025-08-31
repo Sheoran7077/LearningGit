@@ -1,0 +1,3 @@
+cd -> change dierctory 
+mkdir -> make directory
+touch filename.txt - create text file  
