@@ -1,3 +1,5 @@
 cd -> change dierctory 
 mkdir -> make directory
-touch filename.txt - create text file  
+touch filename.txt - create text file
+git log - to see commits
+git status  
